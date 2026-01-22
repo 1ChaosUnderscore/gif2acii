@@ -1,12 +1,25 @@
-# giftwoacii
+# giftwoascii
+Converts all images or gifs into ASCII art in your terminal.
 
-Converts all images or gifs into ACII art in you terminal.
+## Installation
 
-## INFO
+### Using It
+```bash
+pip install git+https://github.com/1ChaosUnderscore/giftwoascii.git
+```
 
-This is not fully finish. Im currently learning on how I could make this executable in the terminal.
+Then run:
+```bash
+giftwoascii path/to/your/image.gif (.png and .jpg are also accepted)
+```
 
-## Requirments
+### Developing It
+```bash
+git clone https://github.com/1ChaosUnderscore/giftwoascii.git
+cd giftwoascii
+pip install -e .
+```
 
--Python 3.6+
--Pillow (PL)
+## Requirements
+- Python 3.7+
+- Pillow (PIL)
