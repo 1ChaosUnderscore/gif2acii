@@ -1,12 +1,12 @@
-# gif2acii
+# giftwoacii
 
 Converts all images or gifs into ACII art in you terminal.
 
-### INFO
+## INFO
 
 This is not fully finish. Im currently learning on how I could make this executable in the terminal.
 
-# Requirments
+## Requirments
 
 -Python 3.6+
 -Pillow (PL)
